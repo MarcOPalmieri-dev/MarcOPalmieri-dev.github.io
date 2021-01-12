@@ -1,0 +1,11 @@
+main{
+    width: 70%;
+    height: 60vh;
+    margin: 0 auto;
+    background-color: aqua ;
+}
+main p{
+    color: rgb(1, 157, 247);
+    font-size: 2em;
+    text-align: center;
+}
