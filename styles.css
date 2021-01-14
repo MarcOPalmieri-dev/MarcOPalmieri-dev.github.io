@@ -1,17 +1,23 @@
 header{
     width: 70%;
-    height: 20vh;
+    min-height: 20vh;
     margin: 0 auto;
     margin-top: 2em;
     display: flex;
     flex-direction: column;
     justify-content: center; 
     align-items: center;
+    background-color: darkcyan;
+    box-shadow: -2px 0px 20px 6px rgba(6,133,179,1);
 }
 
 header h1{
-    font-size: 4em;
-    color: rgb(16, 189, 131);
+    font-size: 4.5em;
+    color: rgb(16, 224, 155);
+}
+header p{
+    font-size: 1.25em;
+    color: aquamarine;
 }
 
 main{
