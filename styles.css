@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing:border-box;
 }
+html{
+    background: rgb(210, 248, 231);
+}
 header{
     width: 70%;
     min-height: 20vh;
@@ -42,4 +45,13 @@ main p{
     font-size: 2em;
     text-align: center;
     padding-top: 1em; 
+}
+footer{
+    background: darkgreen;
+    margin: 0 auto;
+    width: 70%;
+    padding: 0.5em;
+    text-align: center;
+    font-size: 2em;
+    color: rgb(8, 241, 241);
 }
