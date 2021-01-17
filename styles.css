@@ -20,6 +20,11 @@ header p{
     color: aquamarine;
 }
 
+h2{
+    color: rgb(15, 196, 135);
+    font-size: 2em;
+}
+
 main{
     width: 70%;
     height: 60vh;
